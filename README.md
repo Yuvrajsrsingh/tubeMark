@@ -22,11 +22,10 @@ As a developer and content consumer, I realized how challenging it can be to rem
 
 ## 🎥 Demo
 
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/cVkjt-nx8Y8" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<video width="560" height="315" controls>
+  <source src="assets/tubemark.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 💻 Technical Overview
 
