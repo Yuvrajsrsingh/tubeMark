@@ -22,10 +22,8 @@ As a developer and content consumer, I realized how challenging it can be to rem
 
 ## 🎥 Demo
 
-<video width="560" height="315" controls>
-  <source src="assets/tubemark.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo Video](assets/Screenshot%202024-12-14%20204543.png)
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=cVkjt-nx8Y8)
 
 ## 💻 Technical Overview
 
